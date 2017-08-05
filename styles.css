@@ -1,3 +1,6 @@
 body {
-  background: blue;
+  background-image: url("mushbck.jpg");
+  background-repeat: repeat-x;
+  background-attachment: fixed;
+
 }
