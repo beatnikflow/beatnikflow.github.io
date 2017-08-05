@@ -4,3 +4,67 @@ body {
   background-attachment: fixed;
 
 }
+
+h1 {
+  background-color: white;
+}
+
+h2 {
+  background-color: white;
+}
+
+p {
+  padding: 20px;
+}
+
+table {
+  background-color: white;
+}
+
+footer {
+  background-color: white;
+}
+
+.div1 {
+  width: 955px;
+  margin: auto;
+  border: 3px solid #000000;
+  background-color: white;
+}
+
+.div2 {
+  width: 920px;
+  margin: auto;
+  border: 3px solid #000000;
+  background-color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.div3 {
+  width: 920px;
+  margin: auto;
+  border: 3px solid #000000;
+  background-color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.div4 {
+  width: 920px;
+  margin: auto;
+  border: 3px solid #000000;
+  background-color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+img {
+  border: 3px solid #000000;
+}
+
+#paragraph1 {
+  align: left;
+  text-indent: 50px;
+  padding: 40px;
+}
