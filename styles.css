@@ -70,12 +70,10 @@ footer {
 }
 
 .div5 {
-  width: 920px;
+  width: 500px;
   margin: auto;
   border: 3px solid #000000;
   background-color: white;
-  padding-left: 20px;
-  padding-right: 20px;
 }
 
 img {
@@ -112,6 +110,24 @@ img {
   max-width: 400px;
 }
 
+.mushchart1 {
+  height: auto;
+  width: 100%;
+  max-width: 1900px;
+}
+
+.mushchart2 {
+  height: auto;
+  width: 100%;
+  max-width: 1900px;
+}
+
+.mushchart3 {
+  height: auto;
+  width: 100%;
+  max-width: 1900px;
+}
+
 @media screen and (max-width: 1042px) {
   h1 {
     font-size: 1.5em;
@@ -128,6 +144,9 @@ img {
       width: 100%;
     }
     .div4 {
+      width: 100%;
+    }
+    .div5 {
       width: 100%;
     }
   }
